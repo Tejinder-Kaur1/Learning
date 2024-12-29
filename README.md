@@ -1,4 +1,4 @@
 # Learning
-This is my first git repo
+This is my first git repository
 <br>
 Name- Tejinder kaur
