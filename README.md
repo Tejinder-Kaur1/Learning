@@ -1,4 +1,5 @@
 # Learning
+
 This is my first git repository
 <br>
-Name- Tejinder kaur
+Name- Tejinder kaur Dhillon
