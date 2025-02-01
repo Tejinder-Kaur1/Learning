@@ -2,4 +2,4 @@
 
 This is my first git repository
 <br>
-Name- Tejinder kaur Dhillon
+Name- Tejinder kaur 
